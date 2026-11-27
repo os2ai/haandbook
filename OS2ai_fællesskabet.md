@@ -1,0 +1,1 @@
+Udviklingen af OS2ai baserer sig på fællesskabet. Produktet drives fremad, alt efter fællesskabets aktivitet og engagement. Et open source produkts succes afgøres af communityet bag. Hvis der i arbejdet med OS2ai er noget man mangler, ikke kan forstå eller gerne vil dele viden om, så skal man være aktiv i fællesskabet.
