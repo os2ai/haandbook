@@ -1,5 +1,5 @@
 ---
-title: Velkommen og formål
+title: OS2ai håndbog
 layout: home
 ---
 
