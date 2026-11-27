@@ -1,5 +1,5 @@
 ---
-title: OS2ai håndbog
+title: Forside
 layout: home
 ---
 
