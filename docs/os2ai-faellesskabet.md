@@ -1,6 +1,6 @@
 ---
 title: OS2ai-fællesskabet
-nav_order: 3
+nav_order: 2
 ---
 # OS2ai-fællesskabet
 
